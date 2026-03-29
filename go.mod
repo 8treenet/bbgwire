@@ -1,4 +1,4 @@
-module bbgwire
+module github.com/8treenet/bbgwire
 
 go 1.25.6
 
