@@ -1,0 +1,13 @@
+# 开发环境中 IDE 配置忽略
+.vscode/
+.trae/
+.idea/
+.air.toml
+
+# 临时文件忽略
+*_old
+*_bak
+.air.toml
+.DS_Store
+CLAUDE.md
+.claude/
